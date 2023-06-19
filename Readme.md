@@ -20,7 +20,7 @@ vnet_name                   = "vnet"
 
 9. In case of error, delete .terraform folder and run the terrrafom commands again
 
-10. Create touch .gitignore file and add all the files which will not be uploaded
+10. Create touch .gitignore file and add all the files which will not be uploaded.
 
 # Commands in the terminal for main folder path
 1. az login > touch create-azure-storage.sh .gitignore > bash create-azure-storage.sh
