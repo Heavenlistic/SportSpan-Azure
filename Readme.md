@@ -31,3 +31,4 @@ vnet_name                   = "vnet"
 6.  git remote add origin (git link) 
     git branch -M main 
     git push -u origin main. 
+7. git add . > git commit -m "Second push" > git push (to additional changes with updated comments)
